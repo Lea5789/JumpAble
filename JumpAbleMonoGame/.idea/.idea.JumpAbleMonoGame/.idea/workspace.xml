@@ -30,6 +30,65 @@
     <urls />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.2679995807164337" />
+      <entry key="MS500" value="1.9754723551310978" />
+      <entry key="S2" value="3.400653893888884" />
+      <entry key="S5" value="4.80507396261791" />
+      <entry key="S10" value="5.696393262799811" />
+      <entry key="S30" value="6.507807386752693" />
+      <entry key="S60" value="6.767830381667852" />
+      <entry key="M2" value="7.128510943174814" />
+      <entry key="M5" value="8.071768813833671" />
+      <entry key="M10" value="8.810088101577534" />
+      <entry key="M15" value="9.145235056741758" />
+      <entry key="M30" value="9.538433286705665" />
+      <entry key="H1" value="9.759957666122103" />
+      <entry key="H2" value="9.877568464573981" />
+      <entry key="H4" value="9.938169254902702" />
+      <entry key="D1" value="9.989608390332647" />
+      <entry key="W1" value="9.998513352201298" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.2026911886957365" />
+      <entry key="MS500" value="1.9530252571825568" />
+      <entry key="S2" value="3.3898818064417493" />
+      <entry key="S5" value="4.79811415773207" />
+      <entry key="S10" value="5.6920270541056" />
+      <entry key="S30" value="6.506079017520167" />
+      <entry key="S60" value="6.766907418319849" />
+      <entry key="M2" value="7.127937271147711" />
+      <entry key="M5" value="8.07138529352423" />
+      <entry key="M10" value="8.809833221938172" />
+      <entry key="M15" value="9.14504584153781" />
+      <entry key="M30" value="9.538327310153804" />
+      <entry key="H1" value="9.759901465683601" />
+      <entry key="H2" value="9.877539510453985" />
+      <entry key="H4" value="9.938154557698363" />
+      <entry key="D1" value="9.989605909641854" />
+      <entry key="W1" value="9.998512997046193" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0,
   "fromUser": false
@@ -94,7 +153,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1794813354824</updated>
-      <workItem from="1794813355722" duration="613000" />
+      <workItem from="1794813355722" duration="1090000" />
     </task>
     <task id="LOCAL-00001" summary="init project">
       <option name="closed" value="true" />
@@ -104,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794813885913</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add gitignore">
+      <option name="closed" value="true" />
+      <created>1794814345494</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1794814345494</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,7 +182,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="init project" />
-    <option name="LAST_COMMIT_MESSAGE" value="init project" />
+    <MESSAGE value="add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
