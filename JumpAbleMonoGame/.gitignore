@@ -104,3 +104,6 @@ _*
 /native/**/*.make
 /native/**/Makefile
 /native/**/*.mgfxo.h
+
+# Workspace files
+*.workspace.xml
