@@ -13,7 +13,33 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3dbdf25-2a46-4942-ba86-037ef7d89cba" name="Changes" comment="" />
+    <list default="true" id="e3dbdf25-2a46-4942-ba86-037ef7d89cba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JumpAbleMonoGame/Physics/testproject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.JumpAbleMonoGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JumpAbleMonoGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/bin/Debug/net9.0/JumpAbleMonoGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/bin/Debug/net9.0/JumpAbleMonoGame.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/bin/Debug/net9.0/JumpAbleMonoGame.exe" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/bin/Debug/net9.0/JumpAbleMonoGame.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/bin/Debug/net9.0/JumpAbleMonoGame.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/bin/Debug/net9.0/JumpAbleMonoGame.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/ref/JumpAbleMonoGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/ref/JumpAbleMonoGame.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/refint/JumpAbleMonoGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/refint/JumpAbleMonoGame.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/JumpAbleMonoGame.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/JumpAbleMonoGame.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/JumpAbleMonoGame.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/JumpAbleMonoGame.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +49,15 @@
     <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/JumpAbleMonoGame/Physics/testproject.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -32,23 +66,23 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.2679995807164337" />
-      <entry key="MS500" value="1.9754723551310978" />
-      <entry key="S2" value="3.400653893888884" />
-      <entry key="S5" value="4.80507396261791" />
-      <entry key="S10" value="5.696393262799811" />
-      <entry key="S30" value="6.507807386752693" />
-      <entry key="S60" value="6.767830381667852" />
-      <entry key="M2" value="7.128510943174814" />
-      <entry key="M5" value="8.071768813833671" />
-      <entry key="M10" value="8.810088101577534" />
-      <entry key="M15" value="9.145235056741758" />
-      <entry key="M30" value="9.538433286705665" />
-      <entry key="H1" value="9.759957666122103" />
-      <entry key="H2" value="9.877568464573981" />
-      <entry key="H4" value="9.938169254902702" />
-      <entry key="D1" value="9.989608390332647" />
-      <entry key="W1" value="9.998513352201298" />
+      <entry key="MS100" value="1.8258988024120923" />
+      <entry key="MS500" value="3.3497347513111193" />
+      <entry key="S2" value="5.697551899798575" />
+      <entry key="S5" value="9.260959071768877" />
+      <entry key="S10" value="12.789593619104236" />
+      <entry key="S30" value="16.97603478764197" />
+      <entry key="S60" value="18.410838583709783" />
+      <entry key="M2" value="19.413311132968747" />
+      <entry key="M5" value="20.76052549210368" />
+      <entry key="M10" value="21.645485046891938" />
+      <entry key="M15" value="22.032830104681924" />
+      <entry key="M30" value="22.480675843215383" />
+      <entry key="H1" value="22.73064286996758" />
+      <entry key="H2" value="22.86279553896911" />
+      <entry key="H4" value="22.930753056630188" />
+      <entry key="D1" value="22.988368152976893" />
+      <entry key="W1" value="22.998336071490254" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -70,59 +104,59 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.2026911886957365" />
-      <entry key="MS500" value="1.9530252571825568" />
-      <entry key="S2" value="3.3898818064417493" />
-      <entry key="S5" value="4.79811415773207" />
-      <entry key="S10" value="5.6920270541056" />
-      <entry key="S30" value="6.506079017520167" />
-      <entry key="S60" value="6.766907418319849" />
-      <entry key="M2" value="7.127937271147711" />
-      <entry key="M5" value="8.07138529352423" />
-      <entry key="M10" value="8.809833221938172" />
-      <entry key="M15" value="9.14504584153781" />
-      <entry key="M30" value="9.538327310153804" />
-      <entry key="H1" value="9.759901465683601" />
-      <entry key="H2" value="9.877539510453985" />
-      <entry key="H4" value="9.938154557698363" />
-      <entry key="D1" value="9.989605909641854" />
-      <entry key="W1" value="9.998512997046193" />
+      <entry key="MS100" value="1.713326984893558" />
+      <entry key="MS500" value="3.30880903276612" />
+      <entry key="S2" value="5.679713945537987" />
+      <entry key="S5" value="9.247295606441314" />
+      <entry key="S10" value="12.77924724902039" />
+      <entry key="S30" value="16.97116062456575" />
+      <entry key="S60" value="18.40814176507117" />
+      <entry key="M2" value="19.411799101601346" />
+      <entry key="M5" value="20.759754185910115" />
+      <entry key="M10" value="21.64503343335044" />
+      <entry key="M15" value="22.03250892900989" />
+      <entry key="M30" value="22.480503417529242" />
+      <entry key="H1" value="22.730553312277365" />
+      <entry key="H2" value="22.862749870817126" />
+      <entry key="H4" value="22.930729993257973" />
+      <entry key="D1" value="22.988364276627166" />
+      <entry key="W1" value="22.998335516923174" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3MB9zL0erwA8PvUAoEcawV399Mv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.JumpAbleMonoGame.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "cidr.known.project.marker": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.JumpAbleMonoGame.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Pysics-System&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="JumpAbleMonoGame" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -154,6 +188,9 @@
       <option name="presentableId" value="Default" />
       <updated>1794813354824</updated>
       <workItem from="1794813355722" duration="1090000" />
+      <workItem from="1794815153760" duration="2317000" />
+      <workItem from="1795158202181" duration="334000" />
+      <workItem from="1795158690319" duration="337000" />
     </task>
     <task id="LOCAL-00001" summary="init project">
       <option name="closed" value="true" />
