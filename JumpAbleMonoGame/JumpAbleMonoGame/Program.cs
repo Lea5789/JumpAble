@@ -1,2 +1,2 @@
-﻿using var game = new JumpAbleMonoGame.Game1();
+﻿using var game = new JumpAbleMonoGame.Testproject();
 game.Run();
