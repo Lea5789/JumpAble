@@ -8,12 +8,16 @@ public class Game1 : Game
 {
     private GraphicsDeviceManager _graphics;
     private SpriteBatch _spriteBatch;
+    private Texture2D _background;
+    private Texture2D _playerTexture;
+    private Vector2 _playerPosition;
 
     public Game1()
     {
         _graphics = new GraphicsDeviceManager(this);
         Content.RootDirectory = "Content";
         IsMouseVisible = true;
+        
     }
 
     protected override void Initialize()
@@ -28,6 +32,11 @@ public class Game1 : Game
         _spriteBatch = new SpriteBatch(GraphicsDevice);
 
         // TODO: use this.Content to load your game content here
+        //erster möglicher hintergrund
+        _spriteBatch = new SpriteBatch(GraphicsDevice);
+
+        _background = Content.Load<Texture2D>("Backgrounds");
+        
     }
 
     protected override void Update(GameTime gameTime)
@@ -45,7 +54,15 @@ public class Game1 : Game
     {
         GraphicsDevice.Clear(Color.CornflowerBlue);
 
-        // TODO: Add your drawing code here
+        _spriteBatch.Begin();
+
+        _spriteBatch.Draw(
+            _background,
+            new Rectangle(0, 0, 800, 480),
+            Color.White
+        );
+
+        _spriteBatch.End();
 
         base.Draw(gameTime);
     }

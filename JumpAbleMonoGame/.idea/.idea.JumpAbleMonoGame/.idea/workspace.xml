@@ -13,7 +13,36 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3dbdf25-2a46-4942-ba86-037ef7d89cba" name="Changes" comment="" />
+    <list default="true" id="e3dbdf25-2a46-4942-ba86-037ef7d89cba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JumpAbleMonoGame/Content/Backgrounds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JumpAbleMonoGame/Content/player.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.JumpAbleMonoGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JumpAbleMonoGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/Content/Content.mgcb" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/Content/Content.mgcb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/Game1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/Game1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/bin/Debug/net9.0/JumpAbleMonoGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/bin/Debug/net9.0/JumpAbleMonoGame.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/bin/Debug/net9.0/JumpAbleMonoGame.exe" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/bin/Debug/net9.0/JumpAbleMonoGame.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/bin/Debug/net9.0/JumpAbleMonoGame.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/bin/Debug/net9.0/JumpAbleMonoGame.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/ref/JumpAbleMonoGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/ref/JumpAbleMonoGame.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/refint/JumpAbleMonoGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/refint/JumpAbleMonoGame.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/JumpAbleMonoGame.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/JumpAbleMonoGame.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/JumpAbleMonoGame.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/JumpAbleMonoGame.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +54,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Lea5789&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Lea5789/JumpAble&quot;,
+    &quot;accountId&quot;: &quot;6d72ed29-a32b-4e32-8403-31d2aab9d5a6&quot;
+  }
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -89,10 +130,10 @@
       <entry key="W1" value="9.998512997046193" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3MB9zL0erwA8PvUAoEcawV399Mv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -104,6 +145,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
@@ -154,6 +196,12 @@
       <option name="presentableId" value="Default" />
       <updated>1794813354824</updated>
       <workItem from="1794813355722" duration="1090000" />
+      <workItem from="1794815552002" duration="1546000" />
+      <workItem from="1795159483800" duration="2034000" />
+      <workItem from="1795173468067" duration="89000" />
+      <workItem from="1795417097838" duration="1727000" />
+      <workItem from="1795420685168" duration="1684000" />
+      <workItem from="1795762878861" duration="693000" />
     </task>
     <task id="LOCAL-00001" summary="init project">
       <option name="closed" value="true" />
