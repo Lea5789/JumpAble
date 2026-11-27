@@ -15,6 +15,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e3dbdf25-2a46-4942-ba86-037ef7d89cba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.JumpAbleMonoGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JumpAbleMonoGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/Physics/BodyDefinition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/Physics/BodyDefinition.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JumpAbleMonoGame/obj/Debug/net9.0/JumpAbleMonoGame.AssemblyInfoInputs.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +36,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/JumpAbleMonoGame/Physics/BodyDefinition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JumpAbleMonoGame/Physics/IPhysicsEngine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JumpAbleMonoGame/Physics/MyPhysocsEngine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JumpAbleMonoGame/Physics/PhysicsDebugDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JumpAbleMonoGame/Physics/PhysicsWorld.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JumpAbleMonoGame/Physics/Shapes.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/JumpAbleMonoGame/Physics/testproject.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
@@ -42,61 +51,61 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0150262103457894" />
-      <entry key="MS500" value="1.60437188988668" />
-      <entry key="S2" value="2.907538399159767" />
-      <entry key="S5" value="4.693909764185654" />
-      <entry key="S10" value="7.934647908742913" />
-      <entry key="S30" value="15.574020897460702" />
-      <entry key="S60" value="19.938086562547873" />
-      <entry key="M2" value="23.518096415396865" />
-      <entry key="M5" value="30.905436153349783" />
-      <entry key="M10" value="39.68764010072082" />
-      <entry key="M15" value="44.75927118547091" />
-      <entry key="M30" value="51.6267309712244" />
-      <entry key="H1" value="55.94540597498843" />
-      <entry key="H2" value="58.37277011388185" />
-      <entry key="H4" value="59.66033020443435" />
-      <entry key="D1" value="60.773008080897746" />
-      <entry key="W1" value="60.96748037238387" />
+      <entry key="MS100" value="1.001760289760929" />
+      <entry key="MS500" value="1.3258098988075453" />
+      <entry key="S2" value="2.690894867059333" />
+      <entry key="S5" value="4.2001441229304675" />
+      <entry key="S10" value="5.267872066787168" />
+      <entry key="S30" value="6.322164146061146" />
+      <entry key="S60" value="6.646326199731326" />
+      <entry key="M2" value="6.819283774976235" />
+      <entry key="M5" value="6.930477495944114" />
+      <entry key="M10" value="7.398673033496607" />
+      <entry key="M15" value="9.185527664673526" />
+      <entry key="M30" value="18.45966472184708" />
+      <entry key="H1" value="33.366022832510325" />
+      <entry key="H2" value="47.07446366519381" />
+      <entry key="H4" value="56.43306224248926" />
+      <entry key="D1" value="65.89789027801" />
+      <entry key="W1" value="67.6951273985927" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="3.6346828965267695E-58" />
-      <entry key="MS500" value="3.2516645785176265E-12" />
-      <entry key="S2" value="0.0014410655029477048" />
-      <entry key="S5" value="0.09593189559184527" />
-      <entry key="S10" value="0.4243669585764647" />
-      <entry key="S30" value="1.1840047867195367" />
-      <entry key="S60" value="1.5373759734863632" />
-      <entry key="M2" value="1.7530809168814203" />
-      <entry key="M5" value="1.897204003248368" />
-      <entry key="M10" value="1.9479055213915135" />
-      <entry key="M15" value="1.9651136583821007" />
-      <entry key="M30" value="1.9824779999409672" />
-      <entry key="H1" value="1.991219201248375" />
-      <entry key="H2" value="1.9956046394700622" />
-      <entry key="H4" value="1.9978010780093265" />
-      <entry key="D1" value="1.9996333404175308" />
-      <entry key="W1" value="1.999947615831507" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="6.556440848719422E-237" />
+      <entry key="S10" value="1.1094152280993723E-118" />
+      <entry key="S30" value="7.570728032311333E-40" />
+      <entry key="S60" value="3.8875159416345773E-20" />
+      <entry key="M2" value="2.787712670385231E-10" />
+      <entry key="M5" value="2.2839808121892765E-4" />
+      <entry key="M10" value="0.02137258721391563" />
+      <entry key="M15" value="0.09703173875244511" />
+      <entry key="M30" value="0.4405258991779571" />
+      <entry key="H1" value="0.9386433472787005" />
+      <entry key="H2" value="1.370141031747429" />
+      <entry key="H4" value="1.6553797066263025" />
+      <entry key="D1" value="1.9379441931040782" />
+      <entry key="W1" value="1.9910146834853435" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9471484918041244" />
-      <entry key="MS500" value="1.5765252421613358" />
-      <entry key="S2" value="2.8824289950448447" />
-      <entry key="S5" value="4.749125927329628" />
-      <entry key="S10" value="8.294522974032509" />
-      <entry key="S30" value="16.702350429377372" />
-      <entry key="S60" value="21.436372851182778" />
-      <entry key="M2" value="25.244823855530484" />
-      <entry key="M5" value="32.78856523871297" />
-      <entry key="M10" value="41.627481208881974" />
-      <entry key="M15" value="46.71870987237865" />
-      <entry key="M30" value="53.60619506548923" />
-      <entry key="H1" value="57.93506762144654" />
-      <entry key="H2" value="60.36758235274726" />
-      <entry key="H4" value="61.6577315427603" />
-      <entry key="D1" value="62.77257429450341" />
-      <entry key="W1" value="62.96741838617931" />
+      <entry key="MS100" value="0.9609527023657406" />
+      <entry key="MS500" value="1.314888563410909" />
+      <entry key="S2" value="2.685556309863319" />
+      <entry key="S5" value="4.196806117306364" />
+      <entry key="S10" value="5.265761695595332" />
+      <entry key="S30" value="6.32131284719807" />
+      <entry key="S60" value="6.645877634278528" />
+      <entry key="M2" value="6.81905336394536" />
+      <entry key="M5" value="6.930610509797904" />
+      <entry key="M10" value="7.419910033486283" />
+      <entry key="M15" value="9.28224772902279" />
+      <entry key="M30" value="18.899505142627618" />
+      <entry key="H1" value="34.303924075168005" />
+      <entry key="H2" value="48.444056705745105" />
+      <entry key="H4" value="58.08810875137861" />
+      <entry key="D1" value="67.8357690862684" />
+      <entry key="W1" value="69.6861324759414" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -108,31 +117,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.JumpAbleMonoGame.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "cidr.known.project.marker": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "Physics-Engine",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "RiderPMCOptionsPageId",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.JumpAbleMonoGame.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Physics-Engine&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;RiderPMCOptionsPageId&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="JumpAbleMonoGame" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -167,7 +176,8 @@
       <workItem from="1794815153760" duration="2317000" />
       <workItem from="1795158202181" duration="334000" />
       <workItem from="1795158690319" duration="1334000" />
-      <workItem from="1795417005993" duration="3438000" />
+      <workItem from="1795417005993" duration="7038000" />
+      <workItem from="1795762694804" duration="730000" />
     </task>
     <task id="LOCAL-00001" summary="init project">
       <option name="closed" value="true" />
@@ -209,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1795417195956</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="initial programm structure">
+      <option name="closed" value="true" />
+      <created>1795421138530</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1795421138530</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,7 +242,8 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="Aether.Physics2D package &#10;added" />
     <MESSAGE value="intiial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="intiial Commit" />
+    <MESSAGE value="initial programm structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial programm structure" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

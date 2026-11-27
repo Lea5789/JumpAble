@@ -43,5 +43,6 @@ namespace MyGame.Physics
  
         /// <summary>Frei nutzbar, z. B. Referenz auf das zugehörige GameObject.</summary>
         public object UserData { get; set; }
+        
     }
 }
